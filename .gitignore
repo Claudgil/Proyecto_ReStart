@@ -1,0 +1,18 @@
+# Ignorar archivos de Python
+__pycache__/
+*.pyc
+
+# Ignorar entorno virtual
+venv/
+
+# Ignorar archivo de variables de entorno
+.env
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar carpeta de Docker (si es temporal)
+/tmp/
+
+# Ignorar node_modules si es proyecto JS
+node_modules/
